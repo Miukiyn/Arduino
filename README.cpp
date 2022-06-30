@@ -1,5 +1,4 @@
-# Arduino
-This code is for creat a robot arm
+
 
 #include "VarSpeedServo.h"//Para usar a biblioteca VarSpeedServo
 //Definição dos objetos servos do braço robótico
